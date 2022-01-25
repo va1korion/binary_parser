@@ -1,4 +1,7 @@
 # Binary executable parser
-Work in progress, currently able to parse ELFs (header and section table)
+Утилита вызывается командой, где your executable – путь к исполняемому файлу 
+~~~
+python3 get_something.py <your executable>
+~~~
 ## 
 
